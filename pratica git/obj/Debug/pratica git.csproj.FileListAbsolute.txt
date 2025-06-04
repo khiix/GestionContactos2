@@ -1,0 +1,10 @@
+C:\Users\Christian\Desktop\GestionContactos2-main\pratica git\bin\Debug\pratica git.exe.config
+C:\Users\Christian\Desktop\GestionContactos2-main\pratica git\bin\Debug\pratica git.exe
+C:\Users\Christian\Desktop\GestionContactos2-main\pratica git\bin\Debug\pratica git.pdb
+C:\Users\Christian\Desktop\GestionContactos2-main\pratica git\obj\Debug\pratica git.csproj.AssemblyReference.cache
+C:\Users\Christian\Desktop\GestionContactos2-main\pratica git\obj\Debug\pratica_git.Form1.resources
+C:\Users\Christian\Desktop\GestionContactos2-main\pratica git\obj\Debug\pratica_git.Properties.Resources.resources
+C:\Users\Christian\Desktop\GestionContactos2-main\pratica git\obj\Debug\pratica git.csproj.GenerateResource.cache
+C:\Users\Christian\Desktop\GestionContactos2-main\pratica git\obj\Debug\pratica git.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\GestionContactos2-main\pratica git\obj\Debug\pratica git.exe
+C:\Users\Christian\Desktop\GestionContactos2-main\pratica git\obj\Debug\pratica git.pdb
